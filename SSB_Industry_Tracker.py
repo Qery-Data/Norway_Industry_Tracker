@@ -735,3 +735,38 @@ df_new['pct_change_1y'] = df_new['2020'].div(df_new['2019']).sub(1).mul(100)
 df_new['pct_change_3y'] = df_new['2020'].div(df_new['2017']).sub(1).mul(100)
 df_new = df_new.dropna()
 df_new.to_csv('data/NACE1_Total_Purchases_Pct_Change.csv', index=True)
+
+#Key numbers last year NACE1 Code S
+ssburl = 'https://data.ssb.no/api/v0/no/table/12817/'
+query = {
+  "query": [
+    {
+      "code": "NACE2007",
+      "selection": {
+        "filter": "vs:NACE2007StrNaringF",
+        "values": [
+          "95",
+          "96"
+        ]
+      }
+    },
+    {
+      "code": "Tid",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2021"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
+}
+result = requests.post(ssburl, json = query)
+dataset = pyjstat.Dataset.read(result.text)
+type(dataset)
+df = dataset.write('dataframe')
+df_new = df.pivot(index='næring (SN2007)', columns='statistikkvariabel', values='value')
+df_new.to_csv('data/NACE2_S_Key_Numbers.csv', index=True)
