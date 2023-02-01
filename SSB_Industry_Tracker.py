@@ -6,7 +6,6 @@ from datetime import datetime
 import locale
 import io
 import pandas as pd
-import pycountry
 os.makedirs('data', exist_ok=True)
 
 #Enterprises NACE1
