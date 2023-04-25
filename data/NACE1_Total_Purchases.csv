@@ -1,17 +1,17 @@
-næring (SN2007),2017,2018,2019,2020
-Annen tjenesteyting,8303.3,8374.2,8432.5,8626.4
-Bergverksdrift og utvinning,68769.9,84349.0,94992.6,100517.9
-Bygge- og anleggsvirksomhet,381907.1,412812.1,428746.6,423957.9
-"Elektrisitets-, gass-, damp- og varmtvannsforsyning",,,,
-"Faglig, vitenskapelig og teknisk tjenesteyting",119884.8,130877.9,140535.2,132617.2
-Forretningsmessig tjenesteyting,102420.1,106365.9,114622.2,83382.7
-Helse- og sosialtjenester,,,,
-Industri,590278.9,633183.1,646306.2,613721.2
-Informasjon og kommunikasjon,132141.1,140884.4,147085.3,156679.5
-"Kultur, underholdning og fritid",,,,
-Omsetning og drift av fast eiendom,65973.4,69628.9,72808.2,78305.5
-Overnattings- og serveringsvirksomhet,48120.8,51189.4,53995.7,44053.7
-Transport og lagring,267881.1,291567.0,303561.9,255441.1
-Undervisning,,,,
-"Vann, avløp, renovasjon",19733.8,22425.8,23505.2,25078.6
-"Varehandel, reparasjon av motorvogner",1404803.7,1497368.8,1551662.0,1624233.5
+næring (SN2007),2017,2018,2019,2020,2021
+Annen tjenesteyting,8303.3,8374.2,8432.5,8626.4,9792.2
+Bergverksdrift og utvinning,68769.9,84349.0,94992.6,100517.9,148917.3
+Bygge- og anleggsvirksomhet,381907.1,412812.1,428746.6,423957.9,465220.1
+"Elektrisitets-, gass-, damp- og varmtvannsforsyning",,,,,164809.4
+"Faglig, vitenskapelig og teknisk tjenesteyting",119884.8,130877.9,140535.2,132617.2,146861.6
+Forretningsmessig tjenesteyting,102420.1,106365.9,114622.2,83382.7,82674.4
+Helse- og sosialtjenester,,,,,
+Industri,590278.9,633183.1,646306.2,613721.2,658255.5
+Informasjon og kommunikasjon,132141.1,140884.4,147085.3,156679.5,174240.2
+"Kultur, underholdning og fritid",,,,,
+Omsetning og drift av fast eiendom,65973.4,69628.9,72808.2,78305.5,86728.9
+Overnattings- og serveringsvirksomhet,48120.8,51189.4,53995.7,44053.7,50091.9
+Transport og lagring,267881.1,291567.0,303561.9,255441.1,293550.0
+Undervisning,,,,,
+"Vann, avløp, renovasjon",19733.8,22425.8,23505.2,25078.6,29807.1
+"Varehandel, reparasjon av motorvogner",1404803.7,1497368.8,1551662.0,1624233.5,1852323.1
