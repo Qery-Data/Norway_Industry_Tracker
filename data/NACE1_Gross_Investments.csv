@@ -1,17 +1,17 @@
-næring (SN2007),2017,2018,2019,2020
-Annen tjenesteyting,699.4,864.1,1641.4,737.4
-Bergverksdrift og utvinning,4138.9,3305.1,5587.1,7666.4
-Bygge- og anleggsvirksomhet,21701.0,26124.7,26550.3,24434.7
-"Elektrisitets-, gass-, damp- og varmtvannsforsyning",,,,
-"Faglig, vitenskapelig og teknisk tjenesteyting",7760.9,6281.3,6859.6,4911.5
-Forretningsmessig tjenesteyting,13699.7,19895.6,18165.2,20754.9
-Helse- og sosialtjenester,,,,
-Industri,25702.6,27687.5,35521.5,29235.9
-Informasjon og kommunikasjon,11993.8,13311.8,15802.9,18558.4
-"Kultur, underholdning og fritid",,,,
-Omsetning og drift av fast eiendom,64754.6,64155.7,87901.5,65764.1
-Overnattings- og serveringsvirksomhet,3331.4,3264.3,3589.7,3103.2
-Transport og lagring,32945.0,44408.6,65664.7,43574.8
-Undervisning,,,,
-"Vann, avløp, renovasjon",1527.4,2038.1,2279.9,2197.3
-"Varehandel, reparasjon av motorvogner",16522.8,17936.3,18882.3,20307.8
+næring (SN2007),2017,2018,2019,2020,2021
+Annen tjenesteyting,699.4,864.1,1641.4,737.4,633.7
+Bergverksdrift og utvinning,4138.9,3305.1,5587.1,7666.4,5142.7
+Bygge- og anleggsvirksomhet,21701.0,26124.7,26550.3,24434.7,27742.0
+"Elektrisitets-, gass-, damp- og varmtvannsforsyning",,,,,2453.3
+"Faglig, vitenskapelig og teknisk tjenesteyting",7760.9,6281.3,6859.6,4911.5,6473.0
+Forretningsmessig tjenesteyting,13699.7,19895.6,18165.2,20754.9,20154.4
+Helse- og sosialtjenester,,,,,
+Industri,25702.6,27687.5,35521.5,29235.9,31735.0
+Informasjon og kommunikasjon,11993.8,13311.8,15802.9,18558.4,21717.5
+"Kultur, underholdning og fritid",,,,,
+Omsetning og drift av fast eiendom,64754.6,64155.7,87901.5,65764.1,79209.4
+Overnattings- og serveringsvirksomhet,3331.4,3264.3,3589.7,3103.2,3571.7
+Transport og lagring,32945.0,44408.6,65664.7,43574.8,47454.7
+Undervisning,,,,,
+"Vann, avløp, renovasjon",1527.4,2038.1,2279.9,2197.3,2040.3
+"Varehandel, reparasjon av motorvogner",16522.8,17936.3,18882.3,20307.8,21528.0
